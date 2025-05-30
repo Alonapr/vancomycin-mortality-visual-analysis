@@ -42,4 +42,4 @@ More specifically:
 ## File Overview
 
 - `code_Predkova.R`: My R script for visual analysis
-- `vancomycin.RData`: Dataset used in the project (provided by university for educational use only)
+- `vancomycin.RData`: Dataset used in the project
