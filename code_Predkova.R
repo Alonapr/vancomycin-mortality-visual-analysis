@@ -93,7 +93,6 @@ axis(1, at = 1:5, labels = c("Start", "24Std.", "48Std.", "72Std.", "Ende"))
 lines(1:5, verstorben_means, type = "b", col = red_soft, lwd = 2)
 
 
-
 # Zusammenhang zwischen Vancomycin-Dosis, Serumspiegeln, Nierenfunktion und Sterblichkeit
 
 # Panel-Funktion für Regressionslinien
