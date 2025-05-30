@@ -41,5 +41,10 @@ More specifically:
 
 ## File Overview
 
-- `code_Predkova.R`: My R script for visual analysis
-- `vancomycin.RData`: Dataset used in the project
+- `code_Predkova.R`: My R script for visual analysis.
+- `vancomycin.RData`: Dataset used in the project.
+- `Age.png`: Boxplot showing the age distribution by survival status.
+- `SAPS-, SOFA-Scores.png`: Boxplots illustrating the distribution of SAPS and SOFA scores by survival status.
+- `Kidney Function by Survival Status.png`: Line plots visualizing the dynamics of serum creatinine and eGFR over the course of treatment for surviving vs. deceased patients.
+- `Scatterplot matrix.png`: Pairwise scatterplot matrix (with regression lines and correlations) for vancomycin dosage, serum levels, and kidney function metrics, grouped by survival status.
+
